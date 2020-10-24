@@ -1,5 +1,5 @@
 # Issuses repo
-This repository for issuses :D
+This repository for issuses :D |
 Этот репозиторий для вопросов :D
 
 ### FAQ [ENG | RUS]
